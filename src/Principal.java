@@ -1,4 +1,6 @@
 
+import dia281016.Adivinha_numero;
+
 public class Principal {
 
 	public Principal() {
@@ -6,7 +8,7 @@ public class Principal {
 	}
 
 	public static void main(String[] args) {
-		new Exercicio();
+		new Adivinha_numero();
 		
 		
 	}
